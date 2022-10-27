@@ -1,0 +1,5 @@
+*.lock
+account
+wallets.json
+
+node_modules/
